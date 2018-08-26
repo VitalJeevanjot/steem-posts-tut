@@ -4,4 +4,4 @@ This repository is based on a tutorial that is submitted to utopian-io to give a
 
 You can download the tutorial files and simply double click `index.html` to view at the demo.
 
-You are free to use it anywhere.
+You are free to use it anywhere or modify it to work it for you.
